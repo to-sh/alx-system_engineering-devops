@@ -1,1 +1,1 @@
-/root/alx-system_engineering-devops/0x00-shell_basics
+this repository is about learning the basics of shell in obuntu 20.04 LTS
