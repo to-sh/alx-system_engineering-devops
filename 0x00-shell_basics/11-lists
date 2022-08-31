@@ -1,0 +1,2 @@
+#!/bin/bash 
+ls -a -l /boot/alx-system_engineering-devops/0x00-shell_basics/11-lists
